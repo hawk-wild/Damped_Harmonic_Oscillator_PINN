@@ -1,0 +1,5 @@
+Plots:
+Soft_PINN_Plot_vs_truth - VanillaPINN vs scipy solve_ivp
+Hard_PINN_vs_Truth - PINN with ansatz vs scipy solve_ivp
+Training_Curves - The learning curves of both the models
+Heat_Maps_PINNs - Heat Maps of both the models.
